@@ -1,0 +1,40 @@
+{
+  "launcher": {
+    "version": "0.0.9",
+    "download_url": "https://novacodeportal.xyz/Synthesis/Synthesis.zip",
+    "changelog": "Nueva versión: corregido el error de descarga de executor; cambios de estabilidad y funcionalidad."
+  },
+  "key_url": "https://pastebin.com/raw/RLGc6UqF",
+  "executors": {
+    "Solara": {
+      "status": "ON",
+      "version": "1.0.2",
+      "download_url": "https://novacodeportal.xyz/Synthesis/Solara.zip",
+      "changelog": "Versión actualizada de Solara para nueva versión de Roblox; ya ejecuta scripts y no se cierra."
+    },
+    "Velocity": {
+      "status": "ON",
+      "version": "1.0.0",
+      "download_url": "https://novacodeportal.xyz/Synthesis/Velocity.zip",
+      "changelog": "Versión inicial de Velocity."
+    },
+    "Xeno": {
+      "status": "ON",
+      "version": "1.0.0",
+      "download_url": "https://novacodeportal.xyz/Synthesis/Xeno.zip",
+      "changelog": "Versión inicial de Xeno."
+    },
+    "Ronix": {
+      "status": "OFF",
+      "version": "1.0.0",
+      "download_url": "https://novacodeportal.xyz/Synthesis/Ronix.zip",
+      "changelog": "Versión inicial de Ronix."
+    },
+    "JJSPLOIT": {
+      "status": "OFF",
+      "version": "1.0.0",
+      "download_url": "https://novacodeportal.xyz/Synthesis/JJSPLOIT.zip",
+      "changelog": "Versión inicial de JJSPLOIT."
+    }
+  }
+}
