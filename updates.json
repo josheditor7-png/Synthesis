@@ -1,6 +1,6 @@
 {
   "launcher": {
-    "version": "0.0.9",
+    "version": "0.1.1",
     "download_url": "https://novacodeportal.xyz/Synthesis/Synthesis.zip",
     "changelog": "Nueva versión: corregido el error de descarga de executor; cambios de estabilidad y funcionalidad."
   },
