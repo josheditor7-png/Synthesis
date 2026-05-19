@@ -9,9 +9,9 @@
   "executors": {
     "Solara": {
       "status": "ON",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "download_url": "https://www.dropbox.com/scl/fi/lspdadytvvs1az3xnnt2g/Solara.7z?rlkey=5v8qo8k4lxzpqqmyc47ibazwg&st=d2w3cklu&dl=1",
-      "changelog": "Versión actualizada de Solara para nueva versión de Roblox; ya ejecuta scripts y no se cierra."
+      "changelog": "Versión actualizada de Solara lista para funcionar"
     },
     "Velocity": {
       "status": "OFF",
