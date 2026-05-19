@@ -1,5 +1,5 @@
 {
-  "site_url": "https://novacoderbx.xyz/",
+  "site_url": "https://honeydew-porpoise-686482.hostingersite.com/public/index.php",
   "key_url": "https://pastebin.com/raw/RLGc6UqF",
   "launcher": {
     "version": "0.1.1",
@@ -26,7 +26,7 @@
       "changelog": "Versión inicial de Xeno."
     },
     "Ronix": {
-      "status": "ON",
+      "status": "OFF",
       "version": "1.0.0",
       "download_url": "https://www.dropbox.com/scl/fi/b1zzvsjtzoi8is5310tq5/Ronix.7z?rlkey=r4xet472wohkdngrqszhljhn0&st=gboj8lxm&dl=1",
       "changelog": "Versión inicial de Ronix."
