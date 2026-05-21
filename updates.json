@@ -14,10 +14,10 @@
       "changelog": "Versión actualizada de Solara lista para funcionar"
     },
     "Velocity": {
-      "status": "OFF",
-      "version": "1.0.0",
+      "status": "ON",
+      "version": "1.0.1",
       "download_url": "https://www.dropbox.com/scl/fi/e6k9pxd4wxi5dmvcal59z/Velocity.7z?rlkey=0bjxfiin4e024wtszitbbtsiv&st=iwb9v5ew&dl=1",
-      "changelog": "Versión inicial de Velocity."
+      "changelog": "Versión finalmente actualizada de velocity usenlo y reporten errores"
     },
     "Xeno": {
       "status": "OFF",
