@@ -14,10 +14,10 @@
       "changelog": "Versión Downgrade Solara listo para funcionar"
     },
     "Velocity": {
-      "status": "OFF",
-      "version": "1.0.1",
-      "download_url": "https://www.dropbox.com/scl/fi/o7mp9b21im5xf2l3rqow0/Velocity.7z?rlkey=vxzs4ye2zqug5v8x970h1y0pr&st=al32hp7u&dl=1",
-      "changelog": "Versión finalmente actualizada de velocity usenlo y reporten errores"
+      "status": "ON",
+      "version": "1.0.2",
+      "download_url": "https://www.dropbox.com/scl/fi/o7mp9b21im5xf2l3rqow0/Velocity.7z?rlkey=vxzs4ye2zqug5v8x970h1y0pr&st=n65mf3to&dl=1",
+      "changelog": "Versión finalmente actualizada SE RECOMIENDA NO ACTUALIZAR ROBLOX o usar la version downgrade"
     },
     "Xeno": {
       "status": "ON",
