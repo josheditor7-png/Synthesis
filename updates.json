@@ -8,7 +8,7 @@
   },
   "executors": {
     "Solara": {
-      "status": "ON",
+      "status": "OFF",
       "version": "1.0.6",
       "download_url": "https://www.dropbox.com/scl/fi/lspdadytvvs1az3xnnt2g/Solara.7z?rlkey=5v8qo8k4lxzpqqmyc47ibazwg&st=xuhp18af&dl=1",
       "changelog": "Versión Downgrade Solara listo para funcionar"
@@ -20,13 +20,13 @@
       "changelog": "Versión finalmente actualizada de velocity usenlo y reporten errores"
     },
     "Xeno": {
-      "status": "ON",
+      "status": "OFF",
       "version": "1.0.1",
       "download_url": "https://www.dropbox.com/scl/fi/i2ho22mpbznyp9dcz1j19/Xeno.7z?rlkey=jsdzii8mk4bmep1nn067opucx&st=q71yj91r&dl=1",
       "changelog": "Versión Actualizada de xeno para la version mas reciente de roblox"
     },
     "Ronix": {
-      "status": "ON",
+      "status": "OFF",
       "version": "1.0.1",
       "download_url": "https://www.dropbox.com/scl/fi/b1zzvsjtzoi8is5310tq5/Ronix.7z?rlkey=r4xet472wohkdngrqszhljhn0&st=ur2b0n99&dl=1",
       "changelog": "Versión Actualizada de ronix para version mas reciente de roblox"
