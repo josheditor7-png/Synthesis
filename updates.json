@@ -8,9 +8,9 @@
   },
   "executors": {
     "Solara": {
-      "status": "OFF",
-      "version": "1.0.6",
-      "download_url": "https://www.dropbox.com/scl/fi/lspdadytvvs1az3xnnt2g/Solara.7z?rlkey=5v8qo8k4lxzpqqmyc47ibazwg&st=xuhp18af&dl=1",
+      "status": "ON",
+      "version": "1.0.7",
+      "download_url": "https://www.dropbox.com/scl/fi/lspdadytvvs1az3xnnt2g/Solara.7z?rlkey=5v8qo8k4lxzpqqmyc47ibazwg&st=e98z5dj6&dl=1",
       "changelog": "Versión Downgrade Solara listo para funcionar"
     },
     "Velocity": {
