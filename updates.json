@@ -9,24 +9,24 @@
   "executors": {
     "Solara": {
       "status": "ON",
-      "version": "1.0.8",
-      "download_url": "https://drive.google.com/uc?export=download&id=1b2lZ-CW-6b9ECqP6LXUc5jqWeN-nGntG",
-      "changelog": "Nueva version actualizada solara, no será el mejor, pero si el mas rápido"
+      "version": "1.0.9",
+      "download_url": "https://drive.google.com/uc?export=download&id=15H8LpzAxD_RZdk94RzW7zV7-tla6-r2x",
+      "changelog": "Nueva version actualizada solara actualización semanal de roblox"
     },
     "Velocity": {
-      "status": "ON",
+      "status": "OFF",
       "version": "1.0.4",
       "download_url": "https://drive.google.com/uc?export=download&id=1ZKQ_fppuoUxOMvLXzgcgiNmymDIsCIZw",
       "changelog": "Versión finalmente actualizada ultima version de roblox"
     },
     "Xeno": {
-      "status": "ON",
+      "status": "OFF",
       "version": "1.0.3",
       "download_url": "https://drive.google.com/uc?export=download&id=1lF0maPyCQwdclc34IffbUiwoWHWkkUQU",
       "changelog": "Versión Actualizada de xeno para la version mas reciente de roblox"
     },
     "Ronix": {
-      "status": "ON",
+      "status": "OFF",
       "version": "1.0.2",
       "download_url": "https://drive.google.com/uc?export=download&id=1JqTCfsP6HNLCslUug65E1HVTuTRZoWVb",
       "changelog": "Versión Actualizada de ronix para version mas reciente de roblox"
