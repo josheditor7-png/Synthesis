@@ -9,8 +9,8 @@
   "executors": {
     "Solara": {
       "status": "ON",
-      "version": "1.1.0",
-      "download_url": "https://www.dropbox.com/scl/fi/7mw5po3dhg2hk3jrvy2da/Solara.7z?rlkey=u6tnt3lid90gt1njyfku17n0o&st=0b87i6t8&dl=1",
+      "version": "0.0.1",
+      "download_url": "https://axheiqjznpdidwqrppvm.supabase.co/storage/v1/object/public/ncexe/1713101161.7z",
       "changelog": "Nueva version actualizada solara actualización semanal de roblox"
     },
     "Xeno": {
