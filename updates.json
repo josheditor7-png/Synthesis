@@ -1,11 +1,17 @@
 {
   "site_url": "https://www.novacoderbx.xyz/post.php?slug=synthesis-launcher-roblox-executors-all-executors-2026",
-  "key": "phfuNYY36wrxescwFdn1FRaotrJaJnqA",
+
+  "keys": {
+    "normal": "phfuNYY36wrxescwFdn1FRaotrJaJnqA",
+    "vip": "Kn4yf8r3q7uNdaoO6Ex43Dqr3xtIyrPI"
+  },
+
   "launcher": {
     "version": "0.0.1",
     "download_url": "https://axheiqjznpdidwqrppvm.supabase.co/storage/v1/object/public/ncexe/Synthesis.7z",
     "changelog": "Nueva versión: corregido el error de descarga de executor; cambios de estabilidad y funcionalidad."
   },
+
   "executors": {
     "Solara": {
       "status": "ON",
@@ -13,18 +19,21 @@
       "download_url": "https://axheiqjznpdidwqrppvm.supabase.co/storage/v1/object/public/ncexe/Solara.7z",
       "changelog": "Nueva version actualizada solara actualización semanal de roblox"
     },
+
     "Xeno": {
       "status": "ON",
       "version": "0.0.1",
       "download_url": "https://axheiqjznpdidwqrppvm.supabase.co/storage/v1/object/public/ncexe/Xeno.7z",
       "changelog": "Versión Actualizada de xeno para la version mas reciente de roblox"
-      },
-    "Velocity": {
-      "status": "ON",
-      "version": "0.0.1",
-      "download_url": "https://axheiqjznpdidwqrppvm.supabase.co/storage/v1/object/public/ncexe/Xeno.7z",
-      "changelog": "Versión Actualizada de xeno para la version mas reciente de roblox"
     },
+
+    "Velocity": {
+      "status": "OFF",
+      "version": "0.0.1",
+      "download_url": "https://axheiqjznpdidwqrppvm.supabase.co/storage/v1/object/public/ncexe/Velocity.7z",
+      "changelog": "Versión Actualizada de Velocity para la version mas reciente de roblox"
+    },
+
     "JJSPLOIT": {
       "status": "ON",
       "version": "0.0.1",
