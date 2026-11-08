@@ -15,7 +15,7 @@
   "executors": {
     "Solara": {
       "status": "ON",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "download_url": "https://axheiqjznpdidwqrppvm.supabase.co/storage/v1/object/public/ncexe/Solara.7z",
       "changelog": "Nueva version actualizada solara actualización semanal de roblox"
     },
